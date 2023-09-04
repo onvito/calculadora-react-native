@@ -1,6 +1,6 @@
-# projeto-calculadora-rn
-# Projeto criado em react native para aprendizado
-# Para rodar basta:
-# *Clonar o projeto,
-# *Ir no terminal e rodar npm-i ou yarn install
-# *E ainda no terminal, rodar npx expo start ou npm start
+# Calculadora feita em react native
+
+## Passo a passo Instalação:
+1. Baixar zip 
+2. Instalar dependencias usando ``` npm i ``` ou ``` yarn install ```
+3. Para rodar o projeto, use ``` npm start ``` ou ``` npx expo start ```
